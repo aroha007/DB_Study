@@ -17,7 +17,7 @@ public class DBConnectionTest {
 		} catch (Exception e) {
 				// 사용자 id, password 오류 또는 mysql 서버가 바쁠때
 				System.out.println("MySQL 연결에 실패했습니다.");
-				System.out.println("오류 내용: " + e.getMessage());
+				System.out.println("오류 내용: " + "오류발생했음");
 		}
 	}
 }
