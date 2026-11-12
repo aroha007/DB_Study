@@ -1,0 +1,59 @@
+mysql 관리자 암호
+root / admin1234
+일반사용자
+java/java1234
+
+
+
+Monster
+----------------------
+id
+name
+grade
+level_no
+exp
+element
+1
+슬라임
+일반
+3
+100
+물
+##########
+2
+불꽃이
+희귀
+8
+350
+불
+
+battle_log
+----------------------
+id
+monster_id
+monster_name
+monster_grade
+monster_level_no
+monster_exp
+monster_element
+result
+battle_at
+1	배틀 프라이머리 유일키
+1	몬스터 프라이머리 유일키
+승리
+26.11.12
+###########
+2	배틀 프라이머리 유일키
+2	몬스터 프라이머리 유일키
+승리
+26.11.13
+###########
+3	배틀 프라이머리 유일키
+1	몬스터 프라이머리 유일키
+무승부
+26.11.14
+###########
+4	배틀 프라이머리 유일키
+2	몬스터 프라이머리 유일키
+승리
+26.11.15
